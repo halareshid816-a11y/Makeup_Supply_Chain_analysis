@@ -17,3 +17,4 @@ An end-to-end data analysis project focusing on the supply chain of a Beauty sta
 *   `Untitled36.ipynb`: Python Notebook for data processing.
 *   `final_summary_sql.csv`: SQL logic and data summary.
 *   `SUPPLY CHAIN DASHBOARD.pbix`: The final Power BI report.
+![Dashboard](Screenshot%202026-04-20%20170901.png)
